@@ -4,8 +4,9 @@
 
 ## ***What is Portal?***
 
-**The 'Portal' critically acclaimed puzzle-platformer game where players use a portal gun to solve challenges, which developed by Valve Corporation. 
-And this is the demo of Portal game. this is a portal demo edited by me for the edx course assignment**
+**The 'Portal' critically acclaimed puzzle-platformer game where players use a portal gun to solve challenges, which developed by Valve Corporation.**
+
+***And this is the demo of Portal game. this is a portal demo edited by me for the edx course assignment***
 
 
 Murat Beder 
